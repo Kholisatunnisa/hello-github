@@ -1,7 +1,7 @@
 # hello-github
 Halo! Ini adalah repository GitHub pertama saya.
 ## Tentang Saya 
-- Nama: Nama Mahasiswa
-- Program Studi: Nama Program Studi
-- Tambah seperlunya
+- Nama: Kholisatun nisa'
+- Program Studi: Sistem informasi
+- Universitas : Hamzanwadi
 - ## Tujuan Belajar menggunakan Git dan GitHub.
